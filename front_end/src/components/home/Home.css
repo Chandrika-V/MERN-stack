@@ -1,0 +1,7 @@
+.d-table{
+    box-shadow:2px 2px 4px 4px rgb(69, 63, 63); 
+    background-color:rgba(161, 140, 140, 0.3);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    width: 90%;
+}

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Noto+Sans:wght@300&display=swap');
+
+.main{
+    background-image: url("./components/images/Bg-image2.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Noto Sans', sans-serif;
+    overflow: auto;
+}
+
+.nav-style{
+    background-color:gray;
+    opacity: 0.9;
+  }
+
+a.nav-link.active{
+    color: white;
+    background-color:black;
+    font-weight: bold;
+    padding: 10px; 
+  }
+
+  .nav-item{
+    font-size: 20px;
+    padding: 10px;
+  }
+
